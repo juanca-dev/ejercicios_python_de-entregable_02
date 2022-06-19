@@ -8,4 +8,4 @@ z=int(input("Ingrese el salario por horas trabajadas:"))
 q=y*z
 w=(y*z)*0.15
 e=q+w
-print("El sueldo del empleado es:$",e)
+print("El sueldo del empleado es:s/.",e)
